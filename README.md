@@ -35,7 +35,7 @@ MOTOR:SPEED,1800
 END
 ```
 
-# Example Output
+Example Output
 ```bash
 [EXECUTE] Command: LED | Parameters: ON 
 [EXECUTE] Command: TEMP | Parameters: READ 
